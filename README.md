@@ -9,9 +9,9 @@ Proficient in mobile/web app development, UI/UX design, and adept at programming
 * 🌍  I'm based in Sri Lanka
 * 🖥️  See my experiences at [My CV](http://drive.google.com/file/d/1OxNxmaiAbt1hHhtUoEYAT2dhpyWwUvbs/view?usp=sharing)
 * ✉️  You can contact me at [pwkarunarathne28@gmail.com](mailto:pwkarunarathne28@gmail.com)
-* 🚀  I'm currently worked on [Kids Hive](http://https://github.com/https-github-com-Sandeepa200/KidsHive)
+* 🚀  I'm recently worked on [Kids Hive](http://https://github.com/https-github-com-Sandeepa200/KidsHive)
 * 🧠  I'm learning Python, and OpenCV
-* 🤝  I'm open to collaborating on Kids Hive Website
+
 
 ### Skills
 
