@@ -7,7 +7,8 @@ Driven Undergraduate
 Proficient in mobile/web app development, UI/UX design, and adept at programming languages such as Python, Java, and C. Experienced in database management and known for a mature, responsible approach to tasks, ensuring timely and excellent results.
 
 * 🌍  I'm based in Sri Lanka
-* 🖥️  See my portfolio at [My CV](http://drive.google.com/file/d/1OxNxmaiAbt1hHhtUoEYAT2dhpyWwUvbs/view?usp=sharing)
+* 🖥️  See my portfolio at [My Portfolio]([http://drive.google.com/file/d/1OxNxmaiAbt1hHhtUoEYAT2dhpyWwUvbs/view?usp=sharing](https://PabaWaruni.github.io/Portfolio
+))
 * ✉️  You can contact me at [pwkarunarathne28@gmail.com](mailto:pwkarunarathne28@gmail.com)
 * 🧠  I'm learning React 
 
