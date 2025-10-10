@@ -9,7 +9,6 @@ Proficient in mobile/web app development, UI/UX design, and adept at programming
 * 🌍  I'm based in Sri Lanka
 * 🖥️  See my portfolio at ([My Portfolio](https://PabaWaruni.github.io/Portfolio))
 * ✉️  You can contact me at [pwkarunarathne28@gmail.com](mailto:pwkarunarathne28@gmail.com)
-* 🧠  I'm learning React 
 
 ### Skills
 
