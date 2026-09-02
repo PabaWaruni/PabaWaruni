@@ -28,6 +28,6 @@ Project Tools: Jira, Trello, GitHub Projects
 🌐 Connect With Me
 🖥️ Portfolio: ([My Portfolio](https://PabaWaruni.github.io/Portfolio))
 ✉️ Email: [pwkarunarathne28@gmail.com](mailto:pwkarunarathne28@gmail.com)
-📄 ([Download My CV]())
+📄 ([Download My CV](https://drive.google.com/drive/u/0/home))
 
 
