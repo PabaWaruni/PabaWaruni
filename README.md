@@ -30,7 +30,6 @@ I'm especially interested in **Agile/Scrum, requirements analysis, project coord
 - 🎓 Software Engineering Undergraduate
 - 💼 Interested in **Business Analysis, Project Coordination & Project Management**
 - 🧪 Experienced in **Software QA and Testing**
-- 📊 Interested in **ERP and business process improvement**
 - 🚀 Always learning and improving my technical and management skills
 
 ---
