@@ -38,7 +38,7 @@ I'm especially interested in **Agile/Scrum, requirements analysis, project coord
 
 - 🖥️ Portfolio: [My Portfolio](https://PabaWaruni.github.io/Portfolio)
 - ✉️ Email: [pwkarunarathne28@gmail.com](mailto:pwkarunarathne28@gmail.com)
-- 📄 [Download My CV](https://drive.google.com/file/d/19ltkYOjYaaf2LqF7yuIKZJ2wS6Y5SFLW/view?usp=sharing)
+- 📄 [Download My CV](https://drive.google.com/file/d/1zfAx74JAfwJe-mH2xPt4TPe-fL8aJpi4/view?usp=sharing)
 
 
 
